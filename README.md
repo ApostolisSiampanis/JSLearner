@@ -59,7 +59,7 @@ Each module includes lessons, examples, and interactive exercises to help users 
 ## Documentation and Resources
 
 - Full project details can be found in the [Project-documentation.pdf](./docs/Project-documentation.pdf).
-- A detailed walkthrough video is available: [Project-video.mp4](./docs/Project-video.mp4).
+- A detailed walkthrough video is available: [Project-video.mp4](./video/Project-video.mp4).
 
 ## Screenshots
 
